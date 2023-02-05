@@ -14,7 +14,7 @@ This is a simple console program for manage tasks.
 
 # Options in program
 
-- add - to add new task
-- remove - to remove selected task
-- list - to show all tasks
-- exit - to end program
+- add - to add new task,
+- remove - to remove selected task,
+- list - to show all tasks,
+- exit - to end program.
